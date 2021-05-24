@@ -1,4 +1,4 @@
 这是第一个测试文本
 
 
-learning git is easy
+learning git is difficult
